@@ -1,9 +1,9 @@
 /* CSS for Web1 final*/
 body {
  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  background-color: #aaa7a1;
+  background-color: silver;
   margin: .5rem; 
-
+background-image: url(images/hex.jpg);
 }
 
 .wrapper {
@@ -25,7 +25,7 @@ header h1 {
 
 /*Navigation Bar*/
 nav {
-  background-color: #aaa7a1;
+  background-color: silver;
   text-transform: uppercase;
   overflow: hidden;
   border-top: 2px solid silver;
@@ -50,13 +50,9 @@ nav a {
 
 nav a:hover {
   background-color: white;
+  color: black;
   border-radius: 2rem;
 }
-
-
-
-
-
 
 
 
@@ -65,6 +61,7 @@ h2 {
   font-size: 1.5rem; 
   border-bottom: 1px solid black;
   padding-bottom: .25rem;
+  
 }
 main {
   padding: 2rem;
