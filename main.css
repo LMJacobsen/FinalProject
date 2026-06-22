@@ -66,7 +66,17 @@ h2 {
 main {
   padding: 2rem;
   line-height: 1.5;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 1rem;
 }
+/*
+display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 1rem;
+  padding: .5rem;
+*/
+
 
 main .needspace {
  padding-top: 1rem;
