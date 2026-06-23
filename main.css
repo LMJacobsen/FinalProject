@@ -70,12 +70,7 @@ main {
   grid-template-columns: 3fr 1fr;
   gap: 1rem;
 }
-/*
-display: grid;
-  grid-template-columns: 3fr 1fr;
-  gap: 1rem;
-  padding: .5rem;
-*/
+
 
 
 main .needspace {
@@ -100,6 +95,31 @@ float: left;
 
 
 
+strong{
+ font-weight: bold;
+ color: black;
+}
+
+
+
+
+/*sidebar*/
+.rightcol {
+  background-color: silver;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: inset .1rem black;
+}
+
+h3 {
+  font-size: 120%;
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+h4 {
+
+}
 
 /*Footer*/
 footer {
