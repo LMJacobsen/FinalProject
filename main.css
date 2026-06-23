@@ -63,12 +63,15 @@ h2 {
   padding-bottom: .25rem;
   
 }
+
+
+/*GRID*/
 main {
   padding: 2rem;
   line-height: 1.5;
   display: grid;
   grid-template-columns: 3fr 1fr;
-  gap: 1rem;
+  gap: 2rem;
 }
 
 
