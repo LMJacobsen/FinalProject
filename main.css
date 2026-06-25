@@ -6,7 +6,7 @@ body {
 background-image: url(images/hex.jpg);
 
 }
-
+/*Wrapper and Sidebar Image*/
 .wrapper {
   background-color: #abbed4;
   width: 75rem;
@@ -84,6 +84,7 @@ main {
   grid-template-columns: 4fr 1fr;
   gap: 2rem;
 }
+
 
 
 
