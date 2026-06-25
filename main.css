@@ -13,7 +13,7 @@ background-image: url(images/hex.jpg);
   margin: 0 auto;
   border: 2px solid #011824;
   box-shadow: 2px 2px 10px black;
-  background-image: url(images/Plasmasidebar.jpg);
+  background-image: url(images/plasmasidebar.png);
   background-position: top right;
   background-repeat: no-repeat;
   background-size: 30%;
@@ -133,6 +133,7 @@ h3 {
   font-size: 120%;
   text-align: center;
   padding-bottom: 1rem;
+  border-bottom: 1px solid ;
 }
 
 /*Footer*/
